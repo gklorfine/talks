@@ -2,11 +2,11 @@
 
 This repository contains the materials for talks I have given (or will give) at various venues. They are listed below:
 
-| Title | Date | Venue | Materials |
-|-------|------|-------|-----------|
-| *Extending the Visualization of Categorical Data in R* | In preparation | To be submitted to the Canadian Psychological Association (CPA) as a 12-minute talk for the 2027 convention | [cpa-2027/](cpa-2027/) |
-| *The replication crisis: p-curves, z-curves, and stereotype threat* | May 24, 2025 | The Thirteenth Annual Canadian Statistics Student Conference (CSSC), University of Saskatchewan, Saskatoon, SK, Canada | [cssc-2025/](cssc-2025/) |
-| *The replication crisis: p-curves, z-curves, and stereotype threat* | May 9, 2025 | Conference for Undergraduate Health Research (CUHR) 2025, York University, Toronto, ON, Canada | See [cssc-2025/](cssc-2025/) (an earlier version of the same talk) |
+| Title | Authors (Presenters in Bold) | Date | Venue | Materials |
+|-------|---------|------|-------|-----------|
+| *Extending the Visualization of Categorical Data in R* | **Klorfine, G.**, & Friendly, M. | In preparation | To be submitted to the Canadian Psychological Association (CPA) as a 12-minute talk for the 2027 convention | [cpa-2027/](cpa-2027/) |
+| *The replication crisis: p-curves, z-curves, and stereotype threat* | **Klorfine, G.**, & Green, C. D. | May 24, 2025 | The Thirteenth Annual Canadian Statistics Student Conference (CSSC), University of Saskatchewan, Saskatoon, SK, Canada | [cssc-2025/](cssc-2025/) |
+| *The replication crisis: p-curves, z-curves, and stereotype threat* | **Klorfine, G.**, & Green, C. D. | May 9, 2025 | Conference for Undergraduate Health Research (CUHR) 2025, York University, Toronto, ON, Canada | See [cssc-2025/](cssc-2025/) (an earlier version of the same talk) |
 
 ## License
 
