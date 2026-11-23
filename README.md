@@ -1,6 +1,11 @@
 # Talks by Gavin Klorfine
 
-This repository contains the materials for talks I have given (or will give) at various venues.
+This repository contains the materials for talks I have given (or will give) at various venues. They are listed below:
+
+| Title | Date | Venue | Materials |
+|-------|------|-------|-----------|
+| *The replication crisis: p-curves, z-curves, and stereotype threat* | May 24, 2025 | The Thirteenth Annual Canadian Statistics Student Conference (CSSC), University of Saskatchewan, Saskatoon, SK, Canada | [cssc-2025/](cssc-2025/) |
+| *The replication crisis: p-curves, z-curves, and stereotype threat* | May 9, 2025 | Conference for Undergraduate Health Research (CUHR) 2025, York University, Toronto, ON, Canada | See [cssc-2025/](cssc-2025/) (an earlier version of the same talk) |
 
 ## License
 
